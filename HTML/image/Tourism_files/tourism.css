@@ -1,0 +1,34 @@
+
+#contain{
+	float: right;
+	display: inline;
+	position: fixed;
+
+}
+
+#contain a{
+padding-right: 10px;
+}
+
+nav { 
+    right: 0; 
+    top: 50%; 
+}
+
+#contain1
+{
+	width: 100%;
+
+	position: fixed;
+	height: 0;
+	top:0;
+	left: 0;
+
+}
+.HEADER{
+	position: fixed;
+	border: 2px;
+	width: 100%
+	top:0px;
+	padding: top;
+}
